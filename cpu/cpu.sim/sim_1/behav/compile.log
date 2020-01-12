@@ -1,0 +1,46 @@
+# do {sccomp_dataflow_compile.do}
+# Model Technology ModelSim PE vmap 10.4c Lib Mapping Utility 2015.07 Jul 20 2015
+# vmap xil_defaultlib msim/xil_defaultlib 
+# Modifying modelsim.ini
+# Model Technology ModelSim PE vmap 10.4c Lib Mapping Utility 2015.07 Jul 20 2015
+# vmap dist_mem_gen_v8_0_10 msim/dist_mem_gen_v8_0_10 
+# Modifying modelsim.ini
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# 
+# Model Technology ModelSim PE vlog 10.4c Compiler 2015.07 Jul 20 2015
+# Start time: 20:58:37 on May 06,2019
+# vlog -64 -incr -work xil_defaultlib ../../../cpu.srcs/sources_1/new/PC.v ../../../cpu.srcs/sources_1/new/npc.v ../../../cpu.srcs/sources_1/new/MUX6.v ../../../cpu.srcs/sources_1/new/MUX4.v ../../../cpu.srcs/sources_1/new/MUX3.v ../../../cpu.srcs/sources_1/new/MUX2.v ../../../cpu.srcs/sources_1/new/MUX1.v ../../../cpu.srcs/sources_1/new/instr_decoder.v ../../../cpu.srcs/sources_1/new/II.v ../../../cpu.srcs/sources_1/new/control.v ../../../cpu.srcs/sources_1/new/alu.v ../../../cpu.srcs/sources_1/new/ADD.v ../../../cpu.srcs/sources_1/new/RegFile.v 
+# -- Compiling module PC
+# -- Compiling module npc
+# -- Compiling module MUX6
+# -- Compiling module MUX4
+# -- Compiling module MUX3
+# -- Compiling module MUX2
+# -- Compiling module MUX1
+# -- Compiling module instr_decoder
+# -- Compiling module II
+# -- Compiling module control
+# -- Compiling module alu
+# -- Compiling module ADD
+# -- Compiling module decoder5_32
+# -- Compiling module MUX32_1
+# -- Compiling module regfile
+# 
+# Top level modules:
+# 	PC
+# 	npc
+# 	MUX6
+# 	MUX4
+# 	MUX3
+# 	MUX2
+# 	MUX1
+# 	instr_decoder
+# 	II
+# 	control
+# 	alu
+# 	ADD
+# 	decoder5_32
+# 	MUX32_1
+# 	regfile
+# End time: 20:58:37 on May 06,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1

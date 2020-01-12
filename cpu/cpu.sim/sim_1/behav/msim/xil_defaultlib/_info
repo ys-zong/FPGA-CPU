@@ -1,0 +1,319 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Mathlogic/Project/cpu/cpu.sim/sim_1/behav
+vADD
+Z1 !s110 1557147517
+!i10b 1
+!s100 X9_m9TZ]FenCBJ;`fHCU[1
+IH_bl=3ci;fjIPB=c;j3lV3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1555335162
+8../../../cpu.srcs/sources_1/new/ADD.v
+F../../../cpu.srcs/sources_1/new/ADD.v
+Z3 L0 22
+Z4 OP;L;10.4c;61
+r1
+!s85 0
+31
+Z5 !s108 1557147517.000000
+Z6 !s107 ../../../cpu.srcs/sources_1/new/RegFile.v|../../../cpu.srcs/sources_1/new/ADD.v|../../../cpu.srcs/sources_1/new/alu.v|../../../cpu.srcs/sources_1/new/control.v|../../../cpu.srcs/sources_1/new/II.v|../../../cpu.srcs/sources_1/new/instr_decoder.v|../../../cpu.srcs/sources_1/new/MUX1.v|../../../cpu.srcs/sources_1/new/MUX2.v|../../../cpu.srcs/sources_1/new/MUX3.v|../../../cpu.srcs/sources_1/new/MUX4.v|../../../cpu.srcs/sources_1/new/MUX6.v|../../../cpu.srcs/sources_1/new/npc.v|../../../cpu.srcs/sources_1/new/PC.v|
+Z7 !s90 -64|-incr|-work|xil_defaultlib|../../../cpu.srcs/sources_1/new/PC.v|../../../cpu.srcs/sources_1/new/npc.v|../../../cpu.srcs/sources_1/new/MUX6.v|../../../cpu.srcs/sources_1/new/MUX4.v|../../../cpu.srcs/sources_1/new/MUX3.v|../../../cpu.srcs/sources_1/new/MUX2.v|../../../cpu.srcs/sources_1/new/MUX1.v|../../../cpu.srcs/sources_1/new/instr_decoder.v|../../../cpu.srcs/sources_1/new/II.v|../../../cpu.srcs/sources_1/new/control.v|../../../cpu.srcs/sources_1/new/alu.v|../../../cpu.srcs/sources_1/new/ADD.v|../../../cpu.srcs/sources_1/new/RegFile.v|
+!i113 1
+Z8 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@d@d
+valu
+R1
+!i10b 1
+!s100 XA3iH5W`=Tej0lB`j:5K_0
+I]K@6IVoIbNCb]E8Gd1EDN0
+R2
+R0
+w1555833301
+8../../../cpu.srcs/sources_1/new/alu.v
+F../../../cpu.srcs/sources_1/new/alu.v
+Z9 L0 23
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vcontrol
+R1
+!i10b 1
+!s100 GVWNHloT^gK5;oU`RSjKe1
+INMC9kbEJ^c^fDCbUKH8T[1
+R2
+R0
+w1555898570
+8../../../cpu.srcs/sources_1/new/control.v
+F../../../cpu.srcs/sources_1/new/control.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vdecoder5_32
+R1
+!i10b 1
+!s100 <F7<BC1VT5@6oEFRMO[6M3
+IR>Ykn3caH97aFWXfZi1kM0
+R2
+R0
+Z10 w1555898165
+Z11 8../../../cpu.srcs/sources_1/new/RegFile.v
+Z12 F../../../cpu.srcs/sources_1/new/RegFile.v
+L0 70
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vII
+R1
+!i10b 1
+!s100 `SJ>ToQC_?DmF3O8R[O?C3
+I:M8@45ADK5JSJ8BT<BHVc2
+R2
+R0
+w1555733457
+8../../../cpu.srcs/sources_1/new/II.v
+F../../../cpu.srcs/sources_1/new/II.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@i@i
+vinstr_decoder
+R1
+!i10b 1
+!s100 [[5AYWRA7@]MJiz?4OH3@0
+I>=X<[KEMacC<c^Fg]KK:Y1
+R2
+R0
+w1554866642
+8../../../cpu.srcs/sources_1/new/instr_decoder.v
+F../../../cpu.srcs/sources_1/new/instr_decoder.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vMUX1
+R1
+!i10b 1
+!s100 =fXKH162nX[ESE3ZX0lCn2
+IE]1SmMQc_0HQ54c[@Rob11
+R2
+R0
+w1555827186
+8../../../cpu.srcs/sources_1/new/MUX1.v
+F../../../cpu.srcs/sources_1/new/MUX1.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x1
+vMUX2
+R1
+!i10b 1
+!s100 ;SUc5fUagmem?<9aQNJg:2
+IK:NF[f4RC063=o6Hi?:YH0
+R2
+R0
+w1555827232
+8../../../cpu.srcs/sources_1/new/MUX2.v
+F../../../cpu.srcs/sources_1/new/MUX2.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x2
+vMUX3
+R1
+!i10b 1
+!s100 n>Xhb2PG66S6A<did?Uz50
+IVNnRdj3QBdC^ckN^=PzYH3
+R2
+R0
+w1555827290
+8../../../cpu.srcs/sources_1/new/MUX3.v
+F../../../cpu.srcs/sources_1/new/MUX3.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x3
+vMUX32_1
+R1
+!i10b 1
+!s100 Lg]4cdYCzDGKZcFX];b2J0
+IP;AURihfA4JIcziHi:BL^3
+R2
+R0
+R10
+R11
+R12
+L0 123
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x32_1
+vMUX4
+R1
+!i10b 1
+!s100 oHN0FZAK;BYZVXdB03O@g0
+I^iaFLCYIH3^kKfml[PQBB0
+R2
+R0
+w1555659045
+8../../../cpu.srcs/sources_1/new/MUX4.v
+F../../../cpu.srcs/sources_1/new/MUX4.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x4
+vMUX6
+R1
+!i10b 1
+!s100 kC6iPo>N[;PSl3VJEPfTA0
+I^4`2h;XQdWKc_I@7JI5zJ3
+R2
+R0
+w1555827536
+8../../../cpu.srcs/sources_1/new/MUX6.v
+F../../../cpu.srcs/sources_1/new/MUX6.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x6
+vnpc
+R1
+!i10b 1
+!s100 CW38C]kgOH:<]^OI0ka>_3
+IXmlXSmPVlYDikhG@_:QND1
+R2
+R0
+w1555124694
+8../../../cpu.srcs/sources_1/new/npc.v
+F../../../cpu.srcs/sources_1/new/npc.v
+R9
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+vPC
+R1
+!i10b 1
+!s100 SfX36egfNKio@cbE7z7aM1
+I=3`KW7G5NGUWAJ=IV=n^A3
+R2
+R0
+w1557146715
+8../../../cpu.srcs/sources_1/new/PC.v
+F../../../cpu.srcs/sources_1/new/PC.v
+L0 65
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@p@c
+vregfile
+R1
+!i10b 1
+!s100 S>hFNX[MI3@libz7<PhUn2
+I<TnT6Xb1<c^G:d6dhfa3j1
+R2
+R0
+R10
+R11
+R12
+L0 251
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
